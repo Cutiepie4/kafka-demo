@@ -1,4 +1,4 @@
-package com.viet.kafka.kafkaproducer.config;
+package com.viet.kafka.kafkaconsumer.config;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
